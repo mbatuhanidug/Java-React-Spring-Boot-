@@ -1,1 +1,1 @@
-# Java-React-Spring-Boot-
+# Java & React (Spring Boot) Eğitim Projesi
